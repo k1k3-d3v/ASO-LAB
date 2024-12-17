@@ -1,4 +1,4 @@
-## 📋 GUIA PARA ASO FIB LABORATORIO
+## 📋 GUIA PARA ASO LABORATORIO
 
 En el laboratorio simplemente ejecutar:
 
